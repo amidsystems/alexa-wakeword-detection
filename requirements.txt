@@ -4,4 +4,3 @@ openwakeword
 playsound==1.2.2
 onnx
 pyttsx3
-# check
