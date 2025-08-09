@@ -1,0 +1,6 @@
+pyaudio
+openwakeword
+# speexdsp-ns # only linux and mac, not available on windows
+playsound==1.2.2
+onnx
+pyttsx3
